@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hillary8
+- 👋 Hi, I’m @Hillary
 - 👀 I’m interested in programing languages
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on ...
