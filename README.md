@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hillary
 - 👀 I’m interested in programing languages
 - 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me ...
 
 <!---
